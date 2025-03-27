@@ -181,3 +181,4 @@ examples/neural_graphs/*.yml
 nemo_experiments/
 
 slurm*.out
+/dolma-fin
